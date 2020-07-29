@@ -5,3 +5,4 @@ four
 five
 color
 bbolj
+color 1 -- edit by color
