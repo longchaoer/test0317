@@ -10,3 +10,4 @@ color 1 -- edit by color
 color 2 -- edit by color
 color 3 -- edit by color
 old line - edit by old employeer
+new line - edit by new employeer
