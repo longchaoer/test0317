@@ -5,3 +5,5 @@ four
 five
 color
 dd djnkj
+bbolj
+color 1 -- edit by color
